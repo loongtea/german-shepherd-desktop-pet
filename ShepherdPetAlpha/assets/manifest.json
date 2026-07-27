@@ -1,0 +1,99 @@
+{
+  "width": 146,
+  "height": 158,
+  "states": {
+    "idle": [
+      "idle-00.bgra",
+      "idle-01.bgra",
+      "idle-02.bgra",
+      "idle-03.bgra",
+      "idle-04.bgra",
+      "idle-05.bgra"
+    ],
+    "running-right": [
+      "running-right-00.bgra",
+      "running-right-01.bgra",
+      "running-right-02.bgra",
+      "running-right-03.bgra",
+      "running-right-04.bgra",
+      "running-right-05.bgra",
+      "running-right-06.bgra",
+      "running-right-07.bgra"
+    ],
+    "running-left": [
+      "running-left-00.bgra",
+      "running-left-01.bgra",
+      "running-left-02.bgra",
+      "running-left-03.bgra",
+      "running-left-04.bgra",
+      "running-left-05.bgra",
+      "running-left-06.bgra",
+      "running-left-07.bgra"
+    ],
+    "jumping": [
+      "jumping-00.bgra",
+      "jumping-01.bgra",
+      "jumping-02.bgra",
+      "jumping-03.bgra",
+      "jumping-04.bgra"
+    ],
+    "waiting": [
+      "waiting-00.bgra",
+      "waiting-01.bgra",
+      "waiting-02.bgra",
+      "waiting-03.bgra",
+      "waiting-04.bgra",
+      "waiting-05.bgra",
+      "waiting-06.bgra",
+      "waiting-07.bgra"
+    ],
+    "idle-random-3": [
+      "idle-random-3-00.bgra",
+      "idle-random-3-01.bgra",
+      "idle-random-3-02.bgra",
+      "idle-random-3-03.bgra"
+    ],
+    "idle-random-6": [
+      "idle-random-6-00.bgra",
+      "idle-random-6-01.bgra",
+      "idle-random-6-02.bgra",
+      "idle-random-6-03.bgra",
+      "idle-random-6-04.bgra",
+      "idle-random-6-05.bgra"
+    ],
+    "idle-random-7": [
+      "idle-random-7-00.bgra",
+      "idle-random-7-01.bgra",
+      "idle-random-7-02.bgra",
+      "idle-random-7-03.bgra",
+      "idle-random-7-04.bgra",
+      "idle-random-7-05.bgra"
+    ],
+    "idle-random-8": [
+      "idle-random-8-00.bgra",
+      "idle-random-8-01.bgra",
+      "idle-random-8-02.bgra",
+      "idle-random-8-03.bgra",
+      "idle-random-8-04.bgra",
+      "idle-random-8-05.bgra"
+    ],
+    "look": [
+      "look-00.bgra",
+      "look-01.bgra",
+      "look-02.bgra",
+      "look-03.bgra",
+      "look-04.bgra",
+      "look-05.bgra",
+      "look-06.bgra",
+      "look-07.bgra",
+      "look-08.bgra",
+      "look-09.bgra",
+      "look-10.bgra",
+      "look-11.bgra",
+      "look-12.bgra",
+      "look-13.bgra",
+      "look-14.bgra",
+      "look-15.bgra"
+    ]
+  }
+}

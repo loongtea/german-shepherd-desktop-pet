@@ -64,3 +64,4 @@ python -m PyInstaller --noconfirm --clean --windowed --onefile `
 ## 隐私与使用
 
 本仓库包含以私人宠物照片制作的动画素材，默认作为私人项目保存。未经主人许可，请勿将素材用于商业用途或重新发布。
+
