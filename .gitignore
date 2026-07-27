@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller working files
+build/
+build-hd/
+
+# Old and duplicate packaged builds
+dist/*
+!dist/ShepherdPet-alpha.exe
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
